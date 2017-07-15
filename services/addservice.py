@@ -3,7 +3,7 @@ import socket
 import time
 
 def addnumbers(num1, num2):
-    return num1*num2
+    return num1+num2
 
 def getparams(data):
     param_string = data.split("\n")[2]
