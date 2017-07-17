@@ -1,9 +1,14 @@
-*** Instructions
-* 1. Run python server in services directory using python 2
+# Simple Java Middleware 
+To request services from different servers
 
-... python2 addservice.py 
+Example Service : Using python
 
-* 2. run Client using java. You need to set 2 parameters as arguments
-
-... java Client 10 20
-
+## Instructions
+1. Run python server in services directory using python 2
+    ```
+    python2 addservice.py 
+    ```
+2. run Client using java. You need to set 2 parameters as arguments
+    ```
+    java Client 10 20
+    ```
