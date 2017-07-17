@@ -1,5 +1,5 @@
 # Simple Java Middleware 
-To request services from different servers
+Facilitating java clients to request services from different servers
 
 Example Service : Using python
 
@@ -12,3 +12,5 @@ Example Service : Using python
     ```
     java Client 10 20
     ```
+
+    
